@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F9F9F9;
+}
+.container{
+    margin-left: 40%;
+    margin-top: 3%;
+}
+.top-container{
+    height: 75vh;
+    width: 50vh;
+    margin-bottom: 20px;
+    border: 2px solid #EEE3CB;
+    background-color: white;
+}
+.bottom-container{
+    height: 10vh;
+    width: 50vh;
+    border: 2px solid #EEE3CB;
+    background-color: white;
+}
+.heding{
+    margin-top: 10%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+margin-left: 17%;
+font-size: 25px;
+margin-bottom: 5%;
+}
+.sub-heading{
+    margin-left: 10%;
+    font-size: 20px;
+    color: gray;
+   font-weight: 500;
+    letter-spacing: 1px;
+   
+}
+.subh-adjust{
+    margin-left: 20%;
+    margin-top: 2px;
+}
+.log-in{
+    margin-left: 20%;
+    margin-top: 7%;
+
+}
+p{
+    font-size: 20px;
+    color: #383838;
+}
+a{
+    text-decoration: none;
+    color: #035397;
+    font-weight: bold;
+}
+.input-cont{
+    display: flex;
+    flex-direction: column;
+    margin-left: 9%;
+    margin-top: 10%;
+   
+}
+
+.input{
+    width: 20vw;
+    height: 5vh;
+    /* margin-bottom: 5%; */
+    border-radius: 5px;
+    border: 1px solid #E5D9B6;
+    background-color: #EEF2E6;
+    margin-bottom: 4%; 
+}
+.sign-width{
+    margin-top: 5%;
+    background-color: #277BC0;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.line{
+    margin-top: 20px;
+    border-bottom: 2px solid #EEE3CB;
+    width: 40vh;
+    margin-left: 10%;
+}
+.or{
+    margin-left: 45%;
+    font-size: 25px;
+    margin-top: 8%;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+p{
+    font-size: 20px;
+    color: #383838;
+}
+input {
+    padding-left: 10px;
+ }
